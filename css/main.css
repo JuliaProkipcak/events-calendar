@@ -29,3 +29,11 @@ html {
   border-radius: 8px;
   color: #333;
 }
+
+table {
+  border-color: #ccc;
+}
+
+td {
+  height: 10em;
+}
